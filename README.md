@@ -1,6 +1,8 @@
-# Basic Sample Hardhat Project
+# Multi Signature Wallet
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+
+This contract allows group of people to manage ethers on contract balance through confirmations for each transaction
 
 Try running some of the following tasks:
 
