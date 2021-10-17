@@ -4,6 +4,11 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 
 This contract allows group of people to manage ethers on contract balance through confirmations for each transaction
 
+To run tests just go:
+```shell
+npm test
+```
+
 Try running some of the following tasks:
 
 ```shell
